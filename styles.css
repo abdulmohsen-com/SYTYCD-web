@@ -1,0 +1,33 @@
+body{
+    background-color: #383F51;
+}
+.mainTitle{
+    color: white;
+    text-align: center;
+}
+.Transport{
+    text-decoration: none;
+    color: white;
+    text-align: center;
+    background-color: teal;
+}
+.weeklyFlex{
+display: flex;
+color: white;
+justify-content: space-evenly;
+}
+.monthlyFlex{
+    display: flex;
+    color: white;
+    justify-content: space-evenly;
+}
+.img{
+    display: flex;
+    justify-content: space-evenly;
+}
+.weeklyDate{
+    display: flex;
+    color: white;
+    justify-content: space-evenly;
+    margin-bottom: 15px ;
+}
